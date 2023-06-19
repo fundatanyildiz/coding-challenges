@@ -1,4 +1,4 @@
 # coding-exercise
-| Question 	         | Link 	                                                                                                              | Date 	       |
-|--------------------|---------------------------------------------------------------------------------------------------------------------|--------------|
-| Find Pivot Index 	 | [:arrow_upper_right:](https://leetcode.com/problems/two-sum/?envType=featured-list&envId=top-interview-questions) 	 | 19/06/2023 	 |
+| Question 	 | Link 	                                                                                                              | Date 	       |
+|------------|---------------------------------------------------------------------------------------------------------------------|--------------|
+| Two Sum 	  | [:arrow_upper_right:](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/727/) 	 | 19/06/2023 	 |
