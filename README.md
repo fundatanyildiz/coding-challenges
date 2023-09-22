@@ -10,4 +10,4 @@
 | Pascal's Triangle                   | [:arrow_upper_right:](https://leetcode.com/explore/interview/card/top-interview-questions-easy/99/others/601/) | 10/07/2023 |
 | Linked List Delete a Node           | [:arrow_upper_right:](https://leetcode.com/submissions/detail/1029607173/?from=explore&item_id=553) | 23/08/2023 |
 | Valid Paranthesis                   | [:arrow_upper_right:](https://leetcode.com/problems/valid-parentheses/submissions/) | 18/09/2023 |
-| Roman-to-Integer                    | [:arrow_upper_right:](https://leetcode.com/problems/roman-to-integer/description/) | 18/09/2023 |
+| Roman-to-Integer                    | [:arrow_upper_right:](https://leetcode.com/problems/roman-to-integer/description/) | 22/09/2023 |
