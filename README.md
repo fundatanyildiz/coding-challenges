@@ -12,3 +12,4 @@
 | Valid Paranthesis                   | [:arrow_upper_right:](https://leetcode.com/problems/valid-parentheses/submissions/) | 18/09/2023 |
 | Roman-to-Integer                    | [:arrow_upper_right:](https://leetcode.com/problems/roman-to-integer/description/) | 22/09/2023 |
 | Longest Common Prefix               | [:arrow_upper_right:](https://leetcode.com/problems/longest-common-prefix/submissions/?envType=study-plan-v2&envId=top-interview-150) | 06/10/2023 |
+| Remove Element                      | [:arrow_upper_right:](https://leetcode.com/problems/remove-element/submissions/?envType=study-plan-v2&envId=top-interview-150) | 11/10/2023 |
