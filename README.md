@@ -17,3 +17,4 @@
 | Best Time to Buy and Sell Stock        | [:arrow_upper_right:](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/submissions/?envType=study-plan-v2&envId=top-interview-150) | 25/10/2023 |
 | Best Time to Buy and Sell Stock II     | [:arrow_upper_right:](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/submissions/?envType=study-plan-v2&envId=top-interview-150) | 25/10/2023 |
 | Remove Duplicates from Sorted Array II | [:arrow_upper_right:](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/submissions/?envType=study-plan-v2&envId=top-interview-150) | 31/10/2023 |
+| Rotate Array                           | [:arrow_upper_right:](https://leetcode.com/problems/rotate-array/submissions/?envType=study-plan-v2&envId=top-interview-150) | 01/11/2023 |
