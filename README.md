@@ -29,3 +29,5 @@
 | Valid Anagram                                      | [:arrow_upper_right:](https://leetcode.com/problems/valid-anagram/submissions/?envType=study-plan-v2&envId=top-interview-150)                                      | 14/12/2023 |
 | Happy Number                                       | [:arrow_upper_right:](https://leetcode.com/problems/happy-number/description/?envType=study-plan-v2&envId=top-interview-150)                                       | 19/12/2023 |
 | Contains Duplicate II                              | [:arrow_upper_right:](https://leetcode.com/problems/contains-duplicate-ii/submissions/?envType=study-plan-v2&envId=top-interview-150)                              | 19/12/2023 |
+| Summary Ranges                                     | [:arrow_upper_right:](https://leetcode.com/problems/summary-ranges/description/?envType=study-plan-v2&envId=top-interview-150)                              | 09/01/2024 |
+| Contains Duplicate II                              | [:arrow_upper_right:]()                              | 09/01/2024 |
